@@ -2,8 +2,8 @@ list:
   persons:
     -
       dni: 11223344
-      nombre: Andres
-      apellido: Lopez
+      nombre: Dennis
+      apellido: Wilson
     -
       dni: 22334455
       nombre: Daniel

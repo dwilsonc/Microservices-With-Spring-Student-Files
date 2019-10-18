@@ -31,4 +31,4 @@ spring:
   profiles: noun
 words: boat,book,vote,seat,backpack,partition,groundhog
 
-message: Se obtuvo el listado de personas exitosamente
+message-everis: Se obtuvo el listado de personas exitosamente
